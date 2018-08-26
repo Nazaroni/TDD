@@ -8,6 +8,8 @@ public class Main {
         short shortVal = 7;
         long longVal = 5;
 
+        short result1 = (short)longVal;
+
         System.out.println("Success");
 
     }
